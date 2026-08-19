@@ -1,8 +1,9 @@
-# Evans-portfolio
+# 🛠️ Evans-portfolii
 
-## 🖥️ Frotnend
+## 🖥️ Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 - [arena-pingpong-game](https://github.com/Evans-portfolio/arena-pingpong-game) — JS game, canvas & DOM manipulation
 - [react-concept-framework](https://github.com/Evans-portfolio/react-concept-framework) — React concepts sandbox
 
