@@ -19,3 +19,4 @@
 - [cloud-migration-platform](https://github.com/Evans-portfolio/voyager) — Terraform/HCL infra
 - [git-operation](https://github.com/Evans-portfolio/gitops-galaxy) — GitOps pipeline setup
 - [cluster-operation](https://github.com/Evans-portfolio/cluster-chronicles) — Kubernetes cluster work
+- [cloud_operation](https://github.com/Evans-portfolio/) — Kubernetes cluster work
