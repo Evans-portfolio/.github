@@ -19,4 +19,4 @@
 - [cloud-migration-platform](https://github.com/Evans-portfolio/voyager) — Terraform/HCL infra
 - [git-operation](https://github.com/Evans-portfolio/gitops-galaxy) — GitOps pipeline setup
 - [cluster-operation](https://github.com/Evans-portfolio/cluster-chronicles) — Kubernetes cluster work
-- [cloud cost_operation](https://github.com/Evans-portfolio/) — calculation how really cloud operation and deployment cost
+- [cloud cost_operation](https://github.com/Evans-portfolio/cloud-cartographer.git) — calculation how really cloud operation and deployment cost
