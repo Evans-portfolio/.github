@@ -16,6 +16,6 @@
 ## ☁️ DevOps
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-- [voyager](https://github.com/Evans-portfolio/voyager) — Terraform/HCL infra
-- [gitops-galaxy](https://github.com/Evans-portfolio/gitops-galaxy) — GitOps pipeline setup
-- [cluster-chronicles](https://github.com/Evans-portfolio/cluster-chronicles) — Kubernetes cluster work
+- [cloud-migration-platform](https://github.com/Evans-portfolio/voyager) — Terraform/HCL infra
+- [git-operation](https://github.com/Evans-portfolio/gitops-galaxy) — GitOps pipeline setup
+- [cluster-operation](https://github.com/Evans-portfolio/cluster-chronicles) — Kubernetes cluster work
